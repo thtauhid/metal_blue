@@ -1,4 +1,4 @@
-# metal_theme
+# metal_blue
 
 ## Demo
-<a src="https://thtauhid.github.io/metal_theme">https://thtauhid.github.io/metal_theme</a>
+<a src="https://thtauhid.github.io/metal_blue">https://thtauhid.github.io/metal_bule</a>
